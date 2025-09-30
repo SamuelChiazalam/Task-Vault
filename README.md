@@ -218,7 +218,7 @@ Verify all dependencies are in package.json
 
 👨‍💻 Author
 Samuel Chiazalam Ugbo
-GitHub: @YOUR_USERNAME
+GitHub: SamuelChiazalam
 Email: samuelzalam@gmail.com
 
 📄 License
@@ -229,6 +229,7 @@ MongoDB Atlas for free database hosting
 Render for free application hosting
 The Node.js and Express.js communities
 DrawSQL for ERD creation tools
+Mr Daniel (Node.js Instructor)
 
 
 ⭐ If you found this project helpful, please give it a star!
