@@ -1,8 +1,6 @@
 📝 TaskVault - Professional Todo Application
 A full-stack todo management application built with Node.js, Express, MongoDB, and EJS. Features secure user authentication, task management with multiple states, and a modern, responsive UI.
 
-🚀 Live Demo
-Live Application:  https://task-vault-9or5.onrender.com
 ✨ Features
 
 🔐 Secure Authentication - User signup and login with bcrypt password hashing
